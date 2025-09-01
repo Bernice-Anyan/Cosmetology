@@ -195,7 +195,7 @@ input{
     margin-top: 20px;
     color: #fff;
 }
-.social-icon{
+.social-icon, a{
     color: #ffff;
     font-size: 30px;
 }
